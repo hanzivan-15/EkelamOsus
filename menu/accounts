@@ -1,7 +1,7 @@
 #!/bin/bash
 
 clear
-echo -e " == Shadow046 == "
+echo -e " == EkelamOsus == "
 echo -e " [1] Create"
 echo -e " [2] Create Random"
 echo -e " [3] Create Trial"
