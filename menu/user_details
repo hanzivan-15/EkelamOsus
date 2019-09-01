@@ -2,7 +2,7 @@
 
 clear
 echo -e ""
-echo -e " == Shadow046 == "
+echo -e " == EkelamOsus == "
 echo -e ""
 read -p " Username: " User
 echo -e ""
