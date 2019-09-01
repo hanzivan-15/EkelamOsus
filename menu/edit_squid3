@@ -76,7 +76,7 @@ if [ $? -eq 0 ]; then
 	squidport="$(cat /etc/privoxy/config | grep -i listen-address | awk '{print $2}')"
 	clear
 	echo -e ""
-echo -e " == Shadow046 == "
+echo -e " == EkelamOsus == "
   echo -e " Successfully Reconfigured"
 	echo -e " your Squid Port is now: $squidport"
 	echo -e ""
