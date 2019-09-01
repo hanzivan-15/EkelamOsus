@@ -12,7 +12,7 @@ userdel -r $user  &> /dev/null
 done
 clear
 echo -e ""
-echo -e " ==Shadow046== "
+echo -e " ==EkelamOsus== "
 echo -e ""
 echo -e "  All Expired Users Has Been Deleted"
 echo -e ""
